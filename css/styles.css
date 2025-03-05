@@ -171,3 +171,24 @@ footer {
         padding: 10px 0;
     }
 }
+.image-section {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.image-section figure {
+  display: inline-block;
+  text-align: center;
+}
+
+.image-section img {
+  display: block;
+  margin: 0 auto;
+}
+
+.image-section figcaption {
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
